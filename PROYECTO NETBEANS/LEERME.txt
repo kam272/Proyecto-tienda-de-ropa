@@ -1,0 +1,4 @@
+En la carpeta "dist" se encuentra el .JAR del proyecto
+:D 
+
+Karen Milena Espitia Doncel
